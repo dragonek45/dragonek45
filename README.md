@@ -8,4 +8,4 @@
 
 ### Stack 🧰
 
-- **Frontend:** HTML CSS I JavaScripts
+- **Frontend:** HTML, CSS, I JavaScripts, Vue.js
